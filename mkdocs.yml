@@ -1,0 +1,50 @@
+site_name: RTSA 2023
+site_url: https://tiagopereira.space/rtsa2023
+
+# Repository
+repo_name: tiagopereira/rtsa2023
+repo_url: https://github.com/tiagopereira/rtsa2023
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/tiagopereira
+    - icon: fontawesome/solid/globe
+      link: https://tiagopereira.space/
+
+nav:
+    - Introduction: index.md
+    - Syllabus and literature: literature.md
+    - Software and tools: tools.md
+    - Project assignments: projects.md
+theme:
+    name: 'material'
+    font: false   # avoid Google fonts for GDPR compliance
+
+# Extensions
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - codehilite
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# For mathjax
+extra_javascript:
+  - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
+
