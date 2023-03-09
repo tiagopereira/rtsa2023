@@ -11,7 +11,7 @@ These pages contain a description of the course on "Mathematical Modelling of So
 
 ## Assessment
 
-The final grade is determined by an assessment of three projects. The following table lists deadlines for handing in each project, how much each project weighs in the final grade, and the topic of each project. More details can be found under [projects](projects/). You need to take only one of the options of Project 5.
+The final grade is determined by an assessment of three projects. The following table lists deadlines for handing in each project, how much each project weighs in the final grade, and the topic of each project. More details can be found under [projects](projects/). 
 
 |        | Deadline          | Weight  |  Topic  |
 | ------------- |:-------------:| :----:|:---|
