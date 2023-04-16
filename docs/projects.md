@@ -45,7 +45,7 @@ Examples of meaningless comments are: *Nice work!*, *You did a good plot here!*,
 
 #### Peer review for the *reviewer*
 
-* After the projects are handed in in Devilry, we will work quickly to assign you a project to review. A Jupyter notebook will be sent to you on Devilry. The project deadlines are on Fridays; you should expect to receive your assignment on the following Monday.
+* After the projects are handed in, we will work quickly to assign you a project to review. A Jupyter notebook will be sent to you by email. The project deadlines are on Fridays; you should expect to receive your assignment on the following Monday.
 
 * The deadline to submit peer review is one week after the original submission deadline (ie, Friday to Friday).
 
